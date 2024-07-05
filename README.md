@@ -1,1 +1,1 @@
-here is my deplyed portfolio
+Here is my deployed portfolio
