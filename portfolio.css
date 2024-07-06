@@ -22,6 +22,7 @@ body{
     border-radius: 30px;
   /* filter: invert(100%); */
   margin: 5px;
+    align-item:center;
   cursor: pointer;
 }
 html{
@@ -91,6 +92,8 @@ height: 90vh;
     cursor: pointer;
     margin: 10px;
 }
+#about img:hover{transform:scale(103%);
+                filter:invert(5%)}
 #skills1{width: 100%;
     overflow-x: hidden;
     /* border-bottom: 2px solid white; */
