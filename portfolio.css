@@ -21,7 +21,8 @@ body{
     height: 50px;
     border-radius: 30px;
   /* filter: invert(100%); */
-  margin: 5px;
+  margin-top: 10px;
+    margin-left:10px;
     align-item:center;
   cursor: pointer;
 }
