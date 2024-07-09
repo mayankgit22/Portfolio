@@ -58,7 +58,7 @@ position: relative;
 margin: 15px;
 background-color: aliceblue;
 }
-#introImg img:hover{transform;scale(100%);
+#introImg img:hover{
                     filter: invert(100%);
                     
 }
