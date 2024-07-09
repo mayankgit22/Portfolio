@@ -95,8 +95,8 @@ height: 90vh;
     cursor: pointer;
     margin: 10px;
 }
-#about img:hover{transform:scale(103%);
-            }
+/* #about img:hover{transform:scale(103%);
+            } */
 #skills1{width: 100%;
     overflow-x: hidden;
     /* border-bottom: 2px solid white; */
