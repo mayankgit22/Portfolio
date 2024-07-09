@@ -59,7 +59,7 @@ margin: 15px;
 background-color: aliceblue;
 }
 #introImg img:hover{transform;scale(102%);
-                    filter: invert(100%);
+/*                     filter: invert(100%); */
                     
 }
 #intro{   border-bottom: 2px solid white;}
