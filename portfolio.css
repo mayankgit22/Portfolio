@@ -104,7 +104,7 @@ height: 90vh;
 #skills1 button:hover{
     background-color: hsl(180, 4%, 79%);
 }
-#skills1 button{width: 30%;
+#skills1 button{width: 34%;
     font-size: 1.1rem;
     font-weight: bold;
     border-radius: 8px;
